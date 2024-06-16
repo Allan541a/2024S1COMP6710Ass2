@@ -9,6 +9,7 @@ public class BoardState{
     State[][] state;
 
 
+
     /**
      * construct a board state.
      * @param str The "board" string in the "game state" string array.
